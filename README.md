@@ -6,4 +6,5 @@ Here you can also see the cover image of the book and the description.
 There's also an advanced search activity that let's you search books by title, author, publisher and ISBN. The five most recent searches made from this activity are saved automatically
 
 screeenshots : http://karimhemina.ml/wp-content/uploads/2019/08/Image1.png
+
 website : http://karimhemina.ml/
